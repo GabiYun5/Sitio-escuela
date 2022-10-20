@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+}
+#video{
+    width:100%;
+    height:500px;
+    border: none;
+}
+.linea{
+    height: 6px;
+    width: 60px;
+    background-color: bisque;
+    margin: 8px auto;
+}
