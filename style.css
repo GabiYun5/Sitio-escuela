@@ -12,3 +12,12 @@ body{
     background-color: bisque;
     margin: 8px auto;
 }
+.main{
+    border: 1px solid lightgray;
+}
+.main img{
+    width: 100%;
+}
+.main h5,.main p{
+    margin: 20px;
+}
